@@ -19,8 +19,7 @@
 #### How to initialize/run your server app (where applicable)
 * Troubleshoot Error: EACCES: permission denied ---- sudo npm install -g --unsafe-perm=true --allow-root 
 * `npm start`
-* npm init 
-* npm i express
+* npm init
 * npm i -D jest
 
 
